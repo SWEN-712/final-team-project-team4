@@ -5,6 +5,8 @@ CollabAll is a meetings app powered by interjections and Voice Recognition made 
 
 The original contribution history of this project can be found at: https://github.com/dkaushik95/CollabAll
 
+The most recent commit histroy for Spring 2020 can be found [here](https://github.com/ra9118/CollabAll).
+
 ## Prerequisites
 - NodeJS
 - Yarn
